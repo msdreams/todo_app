@@ -9,6 +9,7 @@ JavaScript (ES6+): Applied for application logic and state management.
 SCSS (BEM): Modular CSS structure for better scalability and maintainability.
 API: Integrated with a server to manage tasks via asynchronous requests.
 LocalStorage: Utilized for persisting task data locally between user sessions.
+
 Key Features:
 Add and Delete Tasks: Users can easily add new tasks and delete unnecessary ones.
 Task Status Toggling: Users can toggle a task’s status (completed/incomplete) with a loading indicator displayed while waiting for an API response.
@@ -16,6 +17,7 @@ Toggle All Tasks: Implemented a button to toggle the status of all tasks, which 
 Edit Task Title: Users can edit a task title on double-click, with changes saved on pressing Enter or losing focus.
 Error Handling: Error messages are shown in case of API failures during task updates, deletion, or status changes.
 Loader Indicator: A loader overlay is displayed during API calls, indicating that the request is being processed.
+
 Major Implementations:
 Task Status Toggling with API: The task’s status is updated only upon successful API response, with error notifications in case of failure.
 Bulk Task Status Update: A toggleAll button is implemented to change the status of all tasks, simulating multiple individual updates for improved performance.

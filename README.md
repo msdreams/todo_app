@@ -1,5 +1,6 @@
-Description
-This Todo App is a modern task management application showcasing my frontend development skills and API integration. The app is built using React, TypeScript, and SCSS, providing a user-friendly interface for adding, editing, deleting, and managing task statuses.
+Description:
+This Todo App is a modern task management application showcasing my frontend development skills and API integration.
+The app is built using React, TypeScript, and SCSS, providing a user-friendly interface for adding, editing, deleting, and managing task statuses.
 
 Technologies:
 React: Used to create dynamic and responsive components.
